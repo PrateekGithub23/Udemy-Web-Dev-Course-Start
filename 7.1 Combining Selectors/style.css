@@ -10,8 +10,8 @@ h2 {
 }
 
 /* Descendent */
-.box li {
-  color: blue;
+.box li{
+    color: blue;
 }
 
 /* Chained */
